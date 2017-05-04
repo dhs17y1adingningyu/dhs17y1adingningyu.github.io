@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+  <h1>Welcome to Ding Nningyu's home on the web!</h1>
+  <link rel="stylesheet"href="style.css"/>
+<title>My Personal Portfolio</title>
+  <img src="photo.jpg">
+  <h2>About</h2>
+ <p> Hi!I am Ding Nningyu, a 14 years old student from <a href="http://dunmanhigh.moe.edu.sg">Dunman High School</a>,Singapore</p>
+<img src>
+  <h2>Interests</h2>
+  <p>I enjoy playing badminton and reading.</p>
+  </body>
+</html>
